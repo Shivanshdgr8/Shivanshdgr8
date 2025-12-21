@@ -1,58 +1,82 @@
-<div id="header" align="center">
-  <img src="./pfp.png" width="100px"/>
+<div align="center">
+  <h1 align="center">SHIVANSH PANDEY</h1>
+  <h3 align="center">Building Digital Experiences | Minimalism & Performance</h3>
+  <br/>
+  
+  <i>
+    "I am a passionate developer with a keen eye for design and a drive for creating seamless digital experiences. My journey in tech is defined by a constant pursuit of innovation and minimalism."
+  </i>
+  
+  <br/>
+  <br/>
+
+  <!-- Socials -->
+  <p align="center">
+    <a href="https://github.com/Shivanshdgr8" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/shivanshdgr8/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:contact@shivanshpandey.me">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email"/>
+    </a>
+    <a href="https://www.shivanshpandey.me/Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black" alt="Resume"/>
+    </a>
+  </p>
 </div>
 
-<div id="badges", align="center">
-  <a href="https://www.linkedin.com/in/shivanshdgr8/">
-    <img src="./linkedin.png" width="40px" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://discord.com/users/748552378504052878">
-    <img src="./discord.png" width="40px" alt="Discord Badge"/>
-  </a>
-<a href="https://twitter.com/shivanshdgr8">
-<img src="./twitter.png" width="40px" alt="Twitter Badge"/>
-</div>
+---
 
-<div id="counter", align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivanshdgr8&style=flat-square&color=green" alt="Counter"/>
- </div>
+### ░▒▓ DIGITAL ARSENAL
 
-<h1 align="center">
-  Hello World!
-  <img src="https://media.giphy.com/media/RqCkhwVvVRWOOrDoI6/giphy.gif" width="40px"/>
-</h1>
+| Core | Styling & UI | Tools & Backend |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### ░▒▓ SELECTED WORKS
+
+#### **GITHUB STATS ANALYZER**
+> Interactive dashboard visualizing 15+ GitHub metrics with dynamic charts and heatmaps.
+>
+> `React` `GitHub API` `Charts`
+
+#### **KINDAWORKS**
+> All-in-one utility platform with 40+ tools including OCR, PDF editor, and converters.
+>
+> `React 19` `Lazy Loading` `Utility`
+
+#### **STREAMTRACK**
+> Full-stack OTT tracker aggregating 5,000+ movies/series with "Watched Vault" history.
+>
+> `Next.js` `Firebase` `TMDB API`
+
+---
+
+### ░▒▓ STATS
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+  <!-- GitHub Activity Graph (Snake) -->
+  <img alt="Snake animation" src="https://github.com/Shivanshdgr8/Shivanshdgr8/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
+
+  <!-- Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shivanshdgr8&show_icons=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&hide_border=true" alt="Shivansh's GitHub stats" />
+  </a>
+  
+  <!-- Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshdgr8&layout=compact&title_color=000000&text_color=333333&bg_color=ffffff&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
----
+<br/>
 
-### :man_technologist: About Me :
-
-I am a Student <img src="https://media.giphy.com/media/RLheOHSbMj4b0JfQ1k/giphy.gif" width="30"> at VIT University.
-
-- 🖥️ Currently pursuing B.Tech in Computer Science and Engineering.
-
-- 🤖 Curious to learn all Programing Language
-
----
-
-### :hammer_and_wrench: Languages I know :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cpp" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Js UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shivanshdgr8&theme=python-dark)](https://github.com/Shivanshdgr8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshdgr8&layout=compact&theme=radical&border_color=4b8bbe&title_color=4b8bbe)](https://github.com/Shivanshdgr8) 
