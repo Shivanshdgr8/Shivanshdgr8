@@ -32,20 +32,7 @@
         <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </picture>
     </a>
-    <!-- Email -->
-    <a href="mailto:contact@shivanshpandey.me">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black">
-        <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </picture>
-    </a>
-    <!-- Resume -->
-    <a href="https://www.shivanshpandey.me/Resume.pdf" target="_blank">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black">
-        <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-      </picture>
-    </a>
+
     <!-- Portfolio -->
     <a href="https://www.shivanshpandey.me/" target="_blank">
       <picture>
