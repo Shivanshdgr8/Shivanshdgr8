@@ -32,12 +32,11 @@
         <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </picture>
     </a>
-
     <!-- Portfolio -->
     <a href="https://www.shivanshpandey.me/" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black">
-        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black">
+        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
       </picture>
     </a>
   </p>
