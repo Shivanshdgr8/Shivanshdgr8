@@ -2,7 +2,10 @@
   <br/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=SHIVANSH+PANDEY;SOFTWARE+ENGINEER;MINIMALIST+DESIGNER;OPEN+SOURCE+ENTHUSIAST" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=SHIVANSH+PANDEY;SOFTWARE+ENGINEER;MINIMALIST+DESIGNER;OPEN+SOURCE+ENTHUSIAST">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=SHIVANSH+PANDEY;SOFTWARE+ENGINEER;MINIMALIST+DESIGNER;OPEN+SOURCE+ENTHUSIAST">
+    </picture>
   </a>
   <br/>
   
@@ -15,17 +18,33 @@
 
   <!-- Socials -->
   <p align="center">
+    <!-- GitHub -->
     <a href="https://github.com/Shivanshdgr8" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </picture>
     </a>
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/shivanshdgr8/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black">
+        <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </picture>
     </a>
+    <!-- Email -->
     <a href="mailto:contact@shivanshpandey.me">
-      <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black">
+        <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </picture>
     </a>
+    <!-- Resume -->
     <a href="https://www.shivanshpandey.me/Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black">
+        <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+      </picture>
     </a>
   </p>
 </div>
@@ -75,7 +94,12 @@
 
 <div align="center">
   <!-- GitHub Activity Graph (Snake) -->
-  <img alt="Snake animation" src="https://github.com/Shivanshdgr8/Shivanshdgr8/blob/output/github-contribution-grid-snake.svg" width="100%" />
+  <a href="https://github.com/Shivanshdgr8/Shivanshdgr8/actions/workflows/snake.yml">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shivanshdgr8/Shivanshdgr8/blob/output/github-contribution-grid-snake-dark.svg">
+      <img alt="Snake animation" src="https://github.com/Shivanshdgr8/Shivanshdgr8/blob/output/github-contribution-grid-snake.svg" width="100%" />
+    </picture>
+  </a>
   
   <br/><br/>
 
@@ -83,12 +107,18 @@
     <tr>
       <td align="center" style="border: none;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Shivanshdgr8&show_icons=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shivanshdgr8&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true">
+            <img src="https://github-readme-stats.vercel.app/api?username=Shivanshdgr8&show_icons=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+          </picture>
         </a>
       </td>
       <td align="center" style="border: none;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshdgr8&layout=compact&title_color=000000&text_color=333333&bg_color=ffffff&hide_border=true&langs_count=6" alt="Languages" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshdgr8&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshdgr8&layout=compact&title_color=000000&text_color=333333&bg_color=ffffff&hide_border=true&langs_count=6" alt="Languages" />
+          </picture>
         </a>
       </td>
     </tr>
@@ -98,5 +128,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+  </picture>
 </div>
