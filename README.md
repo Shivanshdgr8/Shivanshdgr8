@@ -46,6 +46,13 @@
         <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
       </picture>
     </a>
+    <!-- Portfolio -->
+    <a href="https://www.shivanshpandey.me/" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black">
+        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      </picture>
+    </a>
   </p>
 </div>
 
@@ -63,7 +70,7 @@
 
 ```text
 ╔════════════════════════════════════════════════════════════════════════╗
-║ GITHUB STATS ANALYZER                                          [Lv.99] ║
+║ GITHUB STATS ANALYZER                                                  ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║ > Interactive dashboard visualizing 15+ GitHub metrics using APIs.     ║
 ║ > [React] [GitHub API] [Charts]                                        ║
@@ -72,7 +79,7 @@
 
 ```text
 ╔════════════════════════════════════════════════════════════════════════╗
-║ KINDAWORKS                                                     [Lv.50] ║
+║ KINDAWORKS                                                             ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║ > All-in-one utility platform with 40+ tools (OCR, PDF, Converters).   ║
 ║ > [React 19] [Lazy Loading] [Utility]                                  ║
@@ -81,7 +88,7 @@
 
 ```text
 ╔════════════════════════════════════════════════════════════════════════╗
-║ STREAMTRACK                                                    [Lv.75] ║
+║ STREAMTRACK                                                            ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║ > Full-stack OTT tracker for movies/series with "Watched Vault".       ║
 ║ > [Next.js] [Firebase] [TMDB API]                                      ║
